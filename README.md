@@ -14,11 +14,11 @@ Add the best resources to learn several Programming Languages.
 3. Make sure to add index for each link.
 	ex: HTML
 	
-		1. https://developer.mozilla.org/en-US/docs/Web/HTML
+		1. Website Title - https://developer.mozilla.org/en-US/docs/Web/HTML
 		
-		2. https://www.codecademy.com/learn/learn-html
+		2. Website Title - https://www.codecademy.com/learn/learn-html
 		
-		3. https://www.freecodecamp.org/map		
+		3. Website Title - https://www.freecodecamp.org/map		
 		
 
 		
