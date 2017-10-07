@@ -1,1 +1,1 @@
-JavaScript Info - https://javascript.info/
+1. JavaScript Info - https://javascript.info/
