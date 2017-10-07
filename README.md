@@ -11,7 +11,7 @@ Add the best resources to learn several Programming Languages.
 
 2. Add Best Links : Written Tutorials, Video Tutorials, Blog Posts of respective technology in README.md file of respective folders.
 
-3. Make sure to add index for each link.
+3. Make sure to add Website Title for each link.
 	ex: HTML
 	
 		1. Website Title - https://developer.mozilla.org/en-US/docs/Web/HTML
