@@ -1,4 +1,4 @@
-GIT Immersion - gitimmersion.com
+GIT Immersion - http://gitimmersion.com/
 
 Git Free E-Book - https://git-scm.com/book/en/v2
 
