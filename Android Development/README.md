@@ -5,3 +5,6 @@
 5. Getting Started with Kotlin - blog.rahulchowdhury.co/handy-resources-to-learn-kotlin-easily/
 6. ConstraintLayouts Community Page - https://constraintlayout.com/
 7. Android Developer Documentation - https://developer.android.com/
+8. Android Architecture Blueprints - https://github.com/googlesamples/android-architecture
+9. Common Design Patterns in Android - https://www.raywenderlich.com/109843/common-design-patterns-for-android
+10. How to master Android: What developers can learn from 21 apps - https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps
