@@ -11,5 +11,7 @@ Making Games with Python and Pygame - https://inventwithpython.com/pygame/chapte
 Hacking Secret Ciphers with Python - https://inventwithpython.com/hacking/chapters/
 
 Automate the Boring Stuff with Python - https://automatetheboringstuff.com/
+https://www.hackerrank.com/domains/python/py-introduction
+https://www.codecademy.com/learn/learn-python
 
 
