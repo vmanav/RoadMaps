@@ -12,4 +12,8 @@ Hacking Secret Ciphers with Python - https://inventwithpython.com/hacking/chapte
 
 Automate the Boring Stuff with Python - https://automatetheboringstuff.com/
 
+Hackerrank - https://www.hackerrank.com/domains/python/py-introduction
+
+Codecademy - https://www.codecademy.com/learn/learn-python
+
 
