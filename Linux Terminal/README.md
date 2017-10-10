@@ -1,1 +1,1 @@
-1.https://linuxjourney.com/ "A great site to get complete linux knowledge."
+LinuxJourney - https://linuxjourney.com/lesson/the-shell
