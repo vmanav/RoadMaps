@@ -9,6 +9,11 @@ The New Boston Youtube Channel - https://www.youtube.com/results?search_query=th
 
 Tutorials Point - https://www.tutorialspoint.com/cplusplus/
 
+c++ for c programmers (coursera.org) - https://www.coursera.org/learn/c-plus-plus-a
+
+Learn advanced c++ programming(udemy.com) - https://www.udemy.com/learn-advanced-c-programming/
+
+
 
 
 
