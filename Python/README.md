@@ -22,5 +22,4 @@ TutorialsPoint: Python Tutorial - https://www.tutorialspoint.com/python/
 
 W3schools: Python Tutorial - https://www.w3schools.in/python-tutorial/
 
-
-machine learning:- https://pythonprogramming.net/
+PythonProgramming - https://pythonprogramming.net/
