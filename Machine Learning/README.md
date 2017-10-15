@@ -1,3 +1,3 @@
 Coursera-Machine Learning - https://www.coursera.org/learn/machine-learning
 
-spoiler alert :-https://pythonprogramming.net/
+Practical Machine Learning - https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
