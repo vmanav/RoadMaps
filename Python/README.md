@@ -21,3 +21,6 @@ PEP 8: Style Guide for Python Code - https://www.python.org/dev/peps/pep-0008/
 TutorialsPoint: Python Tutorial - https://www.tutorialspoint.com/python/
 
 W3schools: Python Tutorial - https://www.w3schools.in/python-tutorial/
+
+
+machine learning:- https://pythonprogramming.net/
