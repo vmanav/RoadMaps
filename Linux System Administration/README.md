@@ -1,7 +1,4 @@
 1. Linux Journey - https://linuxjourney.com/
 
- 2.books:-i. Getting started guide to Linux
-         ii.  Linux Introduction
-         iii. Introduction to Linux
-         iv.  A Newbie’s getting started to Linux
-         v.   User mode Linux
+ 2.book a. Getting started guide to Linux =>http://edge-cache.gawker.com/lifehacker/Getting-Started-with-Linux-HQ.pdf
+         
