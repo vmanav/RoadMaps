@@ -1,11 +1,4 @@
 <<<<<<< HEAD
-1. Linux Journey - https://linuxjourney.com/
-
-
-
-
-
-
 =======
 Linux Journey - https://linuxjourney.com/
  
