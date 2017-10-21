@@ -5,7 +5,7 @@ Add the best resources to learn several Programming Languages.
 
    Get your first PR merged ^_^
    
-   Steps to Contribute :
+## Steps to Contribute :
 
 1. Add Respective LOGOS (Preferbaly PNG & SVG Format) in each folder.
 
