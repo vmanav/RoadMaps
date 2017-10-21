@@ -1,1 +1,3 @@
-1. CSSReference - http://cssreference.io/
+CSSReference - http://cssreference.io/
+
+Epicodus - https://www.learnhowtoprogram.com/css

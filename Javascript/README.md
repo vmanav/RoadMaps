@@ -9,3 +9,5 @@ Eloquent JavaScript - http://eloquentjavascript.net/
 JavaScript Info - https://javascript.info/
 
 Introduction-to-javascript - https://www.codecademy.com/learn/introduction-to-javascript
+
+Epicodus - https://www.learnhowtoprogram.com/javascript
