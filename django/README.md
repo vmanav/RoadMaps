@@ -4,3 +4,4 @@
 
 3. DjangoGirls Tutorial - https://tutorial.djangogirls.org/en/
 
+4. Django Tutorial for Beginners - https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
