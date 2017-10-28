@@ -1,3 +1,3 @@
-###AMAZONWEBSERVICES
+### AMAZON WEB SERVICES
 
 AWS Getting started - https://aws.amazon.com/getting-started/tutorials/

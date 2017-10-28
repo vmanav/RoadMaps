@@ -1,4 +1,4 @@
-###ALGORITHMS
+### ALGORITHMS
 
 1. Visualgo - https://visualgo.net/
 
