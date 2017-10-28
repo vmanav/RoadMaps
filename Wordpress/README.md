@@ -1,9 +1,11 @@
-Digital.com - https://digital.com/make-a-website/
+### WORDPRESS
 
-Colorlib - https://colorlib.com/wp/how-to-make-a-website/
+1.Digital.com - https://digital.com/make-a-website/
 
-WebsiteSetup - https://websitesetup.org
+2.Colorlib - https://colorlib.com/wp/how-to-make-a-website/
 
-wpBeginner - http://www.wpbeginner.com/guides/
+3.WebsiteSetup - https://websitesetup.org
 
-Search on Youtube for more tutorials on wordpress
+4.wpBeginner - http://www.wpbeginner.com/guides/
+
+

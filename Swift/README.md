@@ -1,5 +1,7 @@
- Apple documentation - https://developer.apple.com/documentation/swift
+### SWIFT
+
+1. Apple documentation - https://developer.apple.com/documentation/swift
  
- AppCoda - https://www.appcoda.com 
+2. AppCoda - https://www.appcoda.com 
  
- Ray Wenderlich - https://www.raywenderlich.com
+3. Ray Wenderlich - https://www.raywenderlich.com

@@ -1,5 +1,7 @@
-Codecademy Learn SQL - https://www.codecademy.com/learn/learn-sql
+### SQL
 
-Codecademy SQL: Table Transformation - https://www.codecademy.com/learn/sql-table-transformation
+1.Codecademy Learn SQL - https://www.codecademy.com/learn/learn-sql
 
-Codecademy SQL: Analyzing Business Metricts - https://www.codecademy.com/learn/sql-analyzing-business-metrics
+2.Codecademy SQL: Table Transformation - https://www.codecademy.com/learn/sql-table-transformation
+
+3.Codecademy SQL: Analyzing Business Metricts - https://www.codecademy.com/learn/sql-analyzing-business-metrics

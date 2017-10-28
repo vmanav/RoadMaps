@@ -1,11 +1,12 @@
-1. https://www.coursera.org/learn/crypto "Coursera course good for beginners"
+### CRYPTOGRAPHY
+
+1. coursera - https://www.coursera.org/learn/crypto 
 
 2. Books-
-        Crypto101
+        a.Crypto101
         
-        Applied cryptography
+        b.Applied cryptography
         
-        Cryptography and Network Security Principles
-
-3. Book for cryptography - 
-        http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings                        /Stallings_Cryptography_and_Network_Security.pdf
+        c.Cryptography and Network Security Principles
+ 
+        d.Stallings Cryptography and Network Security - http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf

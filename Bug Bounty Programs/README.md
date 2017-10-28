@@ -1,3 +1,3 @@
-###BUGBOUNTYPROGRAMS
+### BUG BOUNTY PROGRAMS
 
-HackerOne - https://www.hackerone.com/
+1.HackerOne - https://www.hackerone.com/

@@ -1,4 +1,4 @@
-#Competitive Programming:
+### COMPETITIVE PROGRAMMING
 
 1.CLRS - http://is.ptithcm.edu.vn/~tdhuy/Programming/Introduction.to.Algorithms.pdf
 
@@ -6,37 +6,11 @@
 
 3.A2Online Judge - https://a2oj.com/categories
 
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-
-#Development Oriented:
+### DEVELOPMENT ORIENTED
 
 1.Learn X in Y minutes - Python3 - https://learnxinyminutes.com/docs/python3/
 
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-
-#Interview Preparations :
+### TECHNICAL INTERVIEW
 
 1.Interview Bit - https://www.interviewbit.com/
 
@@ -44,9 +18,7 @@
 
 3.Cracking the Coding Interview - https://www.amazon.in/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
-4.
-
-#Reasearch
+### RESEARCH
 
 1.ACM Digital Library - https://dl.acm.org/
 
@@ -60,15 +32,7 @@
 
 6.Quora - https://www.quora.com/How-do-I-begin-research-in-theoretical-computer-science/answer/Ashish-Kedia
 
-7.
-
-8.
-
-9.
-
-10.
-
-#Internships/Oppurtunities
+### OPPURTUNITIES
 
 1.Mozilla - https://www.mozilla.org/en-US/contribute/
 
@@ -86,21 +50,13 @@
 
 8.Microsoft Academia Code.fun.do - https://www.acadaccelerator.com/
 
-9.
+### MATHEMATICS FOR PROGRAMMERS AND DATA SCIENCE ENTHUSIASTS
 
-10.
-
-11.
-
-12.
-
-
-#Mathematics for Computer Programmers
 1. Calculus -  Extremely important for a lot of programming topics. Machine Learning, Artificial intelligence, Minimisation /Maximisation, etc.
 
 2.  Linear Algebra - Matrices are key to solve a lot of problems. It is again a very general topic which every programmer should know
 
-3.  Number Theory - This a useful topic if you are working with cryptography. It is also useful to understand the low level representations of data. Number Theory along with well known sequences is also important for competitive programming.
+3.  Number Theory - This a useful topic if you are working with cryptography. It is also useful to understand the low level representations of data. Number Theory along with well    	known sequences is also important for competitive programming.
 
 4.  Game Theory - Again a domain specific concept. You may never need it in your entire programming career but for it is useful for competitive programming and modelling several real - life problems.
 

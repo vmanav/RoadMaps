@@ -1,4 +1,8 @@
-1. Sololearn "a good site for beginners"
-2. TheNewBoston "a you tube channel best for learning languages"
-3. codecademy https://www.codecademy.com/
+### INTRODUCRION TO PROGRAMMING
+
+1. TheNewBoston - https://www.youtube.com/user/thenewboston
+
+2. codecademy - https://www.codecademy.com/
+
+3. freecodecamp - https://www.freecodecamp.org
 

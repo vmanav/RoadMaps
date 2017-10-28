@@ -1,9 +1,9 @@
-###C#
+### C#
 
-net-informations.com - http://csharp.net-informations.com
+1.net-informations.com - http://csharp.net-informations.com
 
-csharp-https://csharp-source.net/
+2.csharp-https://csharp-source.net/
 
-Epicodus - https://www.learnhowtoprogram.com/c
+3.Epicodus - https://www.learnhowtoprogram.com/c
 
-C# programming guide - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+4.C# programming guide - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
