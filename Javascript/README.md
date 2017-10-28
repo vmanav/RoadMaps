@@ -1,13 +1,15 @@
-MDN JavaScript Web Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+1. MDN JavaScript Web Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
-javascript-algorithms - https://github.com/mgechev/javascript-algorithms
+2. javascript-algorithms - https://github.com/mgechev/javascript-algorithms
 
-You Don't Know JS (book series) - https://github.com/getify/You-Dont-Know-JS
+3. You Don't Know JS (book series) - https://github.com/getify/You-Dont-Know-JS
 
-Eloquent JavaScript - http://eloquentjavascript.net/
+4. Eloquent JavaScript - http://eloquentjavascript.net/
 
-JavaScript Info - https://javascript.info/
+5. JavaScript Info - https://javascript.info/
 
-Introduction-to-javascript - https://www.codecademy.com/learn/introduction-to-javascript
+6. Introduction-to-javascript - https://www.codecademy.com/learn/introduction-to-javascript
 
-Epicodus - https://www.learnhowtoprogram.com/javascript
+7. Epicodus - https://www.learnhowtoprogram.com/javascript
+
+8. W3School - https://www.w3schools.com/js/
