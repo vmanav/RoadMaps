@@ -369,7 +369,7 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 
 1. Epicodus - https://www.learnhowtoprogram.com/java-june-2017
 
-###JAVASCRIPT
+### JAVASCRIPT
 
 1. MDN JavaScript Web Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
