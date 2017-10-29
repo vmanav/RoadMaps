@@ -24,6 +24,7 @@ Add the best resources to learn several Programming Languages in only the respec
 
 2. Robert Sedgewick, Algorithms - http://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html
 
+3. Algorithms Unlocked MIT Media Press - https://goo.gl/5gg6zw
 ### AMAZON WEB SERVICES
 
 1. AWS Getting started - https://aws.amazon.com/getting-started/tutorials/
