@@ -425,13 +425,16 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 
 ### LINUX TERMINAL
 
-1. LinuxJourney - https://linuxjourney.com/lesson/the-shell
+1.LinuxJourney - https://linuxjourney.com/lesson/the-shell
  
-2. Cybrary Linux Terminal - https://www.cybrary.it/course/comptia-linux-plus/
+2.Cybrary Linux Terminal - https://www.cybrary.it/course/comptia-linux-plus/
 
-3. The LINUX Command line by William Shots - http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
+3.The LINUX Command line by William Shots - http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
 
-4. Linuxtopia - http://www.linuxtopia.org/
+4.Linuxtopia - http://www.linuxtopia.org/
+
+5.Unix/Linux Cheat Sheet - http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+
 
 ### MACHINE LEARNING
 
