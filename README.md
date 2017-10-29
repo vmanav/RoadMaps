@@ -114,6 +114,8 @@ Add the best resources to learn several Programming Languages in only the respec
 
 3. Cracking the Coding Interview - https://www.amazon.in/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
+4.GeeksforGeeks - http://www.geeksforgeeks.org/
+
 ### RESEARCH
 
 1. ACM Digital Library - https://dl.acm.org/
@@ -369,7 +371,7 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 
 1. Epicodus - https://www.learnhowtoprogram.com/java-june-2017
 
-###JAVASCRIPT
+### JAVASCRIPT
 
 1. MDN JavaScript Web Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
@@ -425,13 +427,16 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 
 ### LINUX TERMINAL
 
-1. LinuxJourney - https://linuxjourney.com/lesson/the-shell
+1.LinuxJourney - https://linuxjourney.com/lesson/the-shell
  
-2. Cybrary Linux Terminal - https://www.cybrary.it/course/comptia-linux-plus/
+2.Cybrary Linux Terminal - https://www.cybrary.it/course/comptia-linux-plus/
 
-3. The LINUX Command line by William Shots - http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
+3.The LINUX Command line by William Shots - http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
 
-4. Linuxtopia - http://www.linuxtopia.org/
+4.Linuxtopia - http://www.linuxtopia.org/
+
+5.Unix/Linux Cheat Sheet - http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+
 
 ### MACHINE LEARNING
 
