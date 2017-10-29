@@ -370,7 +370,9 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 
 ### JAVA
 
-1. Epicodus - https://www.learnhowtoprogram.com/java-june-2017
+1.Epicodus - https://www.learnhowtoprogram.com/java-june-2017
+
+2.GeeksforGeek - http://www.geeksforgeeks.org/java/
 
 ### JAVASCRIPT
 
