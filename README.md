@@ -79,6 +79,10 @@ Add the best resources to learn several Programming Languages in only the respec
 
 ### BACKBONEJS
 
+### BONUS
+
+1.150 Machine Learning Resources - https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+
 ### BOOTSTRAP
 
 1. W3Schools - https://www.w3schools.com/bootstrap/
