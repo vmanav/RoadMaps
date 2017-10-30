@@ -11,8 +11,11 @@
 5.Medium - Series - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
 6.Machine Learning Crash Course (Machine Learning at Berkeley) - https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
+
                                                                  https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
+                                                                 
                                                                  https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
+                                                                 
 
 7.toptal.com - https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 
