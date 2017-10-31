@@ -26,9 +26,14 @@
 
 13.PythonProgramming - https://pythonprogramming.net/
 
-14.##### Books - 
+##### Books 
+
 1.Automate the Boring Stuff with Python - No Starch Press
+
 2.Python Playground - No Starch Press
+
 3.Doing Math with Python - No Starch Press
+
 4.Python Crash Course - No Starch Press
+
 5.Python for Data Analysis - O’Reilly Media 
