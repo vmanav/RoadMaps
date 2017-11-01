@@ -26,6 +26,8 @@
 
 13.PythonProgramming - https://pythonprogramming.net/
 
+14.Python Challenge - http://www.pythonchallenge.com/
+
 ##### Python - Books 
 
 1.Automate the Boring Stuff with Python - No Starch Press
