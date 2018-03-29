@@ -542,6 +542,54 @@ https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
 
 13.PythonProgramming - https://pythonprogramming.net/
 
+14.Python Challenge - http://www.pythonchallenge.com/
+
+15.Python for Social Scientists - www-rohan.sdsu.edu/~gawron/python_for_ss/
+
+16.Practical Business Python - http://pbpython.com/
+
+17.Python for the Humanities - http://fbkarsdorp.github.io/python-course/
+
+18.Practical Python for Astronomers - https://python4astronomers.github.io/
+
+19.Learn Python in y minutes - http://learnxinyminutes.com/docs/python/
+
+20.The Elements of Python Style - https://github.com/amontalenti/elements-of-python-style
+
+21.How to Develop Quality Python Code - https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code
+
+22.Python module of the week - https://pymotw.com/2/contents.html
+
+23.The Hitchhiker’s Guide to Python - http://docs.python-guide.org/en/latest/
+
+24.Composing Programs - http://composingprograms.com/
+
+25.Best Python Videos - https://www.fullstackpython.com/best-python-videos.html
+
+26.Awesome-Python - https://github.com/vinta/awesome-python
+
+27.Easy-Python - http://easy-python.readthedocs.org/en/latest/
+
+28.Podcasts - https://www.fullstackpython.com/best-python-podcasts.html
+
+29.Python Weekly - http://www.pythonweekly.com/
+
+30.Full Stack Python monthly newsletter - https://www.fullstackpython.com/email.html
+
+31.Python Tricks newsletter - https://realpython.com/python-tricks/
+
+32.PyCoder's Weekly - http://pycoders.com/
+
+33.Import Python - http://importpython.com/newsletter/
+
+34.Python Projects - https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
+
+35.ThinkPython - http://greenteapress.com/thinkpython/html/index.html
+
+36.Twilio Blog ( Projects ) - https://www.twilio.com/blog/tag/python
+
+37.Real Python Tricks NewsLetter - https://realpython.com/python-tricks/
+
 ##### Python - Books 
 
 1.Automate the Boring Stuff with Python - No Starch Press
