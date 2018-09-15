@@ -19,5 +19,7 @@
 9. Common Design Patterns in Android - https://www.raywenderlich.com/109843/common-design-patterns-for-android
 
 10. How to master Android: What developers can learn from 21 apps - https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps
+
 11. CodePath Android Cliffnotes: https://guides.codepath.com/android
+
 12. Android Development in Detail: http://www.vogella.com/tutorials/android.html
