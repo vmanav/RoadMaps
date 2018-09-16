@@ -1,23 +1,3 @@
-
-# RoadMaps
-
-Add the best resources to learn several Programming Languages in only the respective folders.
-   
-## Steps to Contribute :
-
-1. Add Respective LOGOS (Preferbaly PNG & SVG Format) in each folder.
-
-2. Add Best Links : Written Tutorials, Video Tutorials, Blog Posts of respective technology in README.md file of respective folders.
-
-3. Make sure to add Website Title for each link.
-	ex: HTML
-	
-		1. Website Title - https://developer.mozilla.org/en-US/docs/Web/HTML
-		
-		2. Website Title - https://www.codecademy.com/learn/learn-html
-		
-		3. Website Title - https://www.freecodecamp.org/map		
-		
 ### ALGORITHMS
 
 1. Visualgo - https://visualgo.net/
@@ -25,6 +5,7 @@ Add the best resources to learn several Programming Languages in only the respec
 2. Robert Sedgewick, Algorithms - http://freecomputerbooks.com/Algorithms-4th-Edition-by-Robert-Sedgewick-and-Kevin-Wayne.html
 
 3. Algorithms Unlocked MIT Media Press - https://goo.gl/5gg6zw
+
 ### AMAZON WEB SERVICES
 
 1. AWS Getting started - https://aws.amazon.com/getting-started/tutorials/
@@ -217,11 +198,8 @@ Add the best resources to learn several Programming Languages in only the respec
 
 2. Books-
         a.Crypto101
-        
         b.Applied cryptography
-        
         c.Cryptography and Network Security Principles
- 
         d.Stallings Cryptography and Network Security - http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf
 
 ### CSS
