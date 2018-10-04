@@ -194,6 +194,8 @@
 
 9. cplusplus-http://www.cplusplus.com/
 
+10. C++ reference - https://en.cppreference.com/w/
+
 ### CRYPTOGRAPHY
 
 1. coursera - https://www.coursera.org/learn/crypto 
@@ -211,6 +213,10 @@
 2. Epicodus - https://www.learnhowtoprogram.com/css
 
 3. W3School - https://www.w3schools.com/css/
+
+4. CSS Tricks - https://css-tricks.com/ 
+
+5. Introduction to CSS - https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 
 ### D3 JS
 
@@ -231,6 +237,10 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 ### DATA STRUCTURES
 
 1. Introduction to data structures - https://www.w3schools.in/data-structures-tutorial/intro/
+
+2. Data Structures - https://www.geeksforgeeks.org/data-structures/
+
+3. Data Structure Tutorial - https://www.javatpoint.com/data-structure-tutorial
 
 ### DESIGN PATTERNS
 
@@ -319,16 +329,25 @@ d3 Wiki (has list of tutorials) - https://github.com/d3/d3/wiki/Tutorials
 2. Free and Open Source Learning for Cyber Security, IT and more. - https://www.cybrary.it/
 
 ### HADOOP
+1. Hadoop Tutorial - https://www.tutorialspoint.com/hadoop/
+
+2. Hadoop Tutorial - https://www.javatpoint.com/hadoop-tutorial
 
 ### HASKELL
+1. Haskell Tutoria - https://www.tutorialspoint.com/haskell/
+
+2. Learn You a Haskell for Great Good! - http://learnyouahaskell.com/chapters
 
 ### HIBERNATE FRAMEWORK
+1. Hibernate Tutorial - https://www.tutorialspoint.com/hibernate/
 
 ### HTML 5
 
 1. w3schools - https://www.w3schools.com/html/default.asp
 
 2. codecademy - https://www.codecademy.com/learn/learn-html
+
+3. HTML5 MDN - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 ### ILLUSTRATOR
 
@@ -596,7 +615,11 @@ https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
 
 2. ReactJS Tutorial - https://www.tutorialspoint.com/reactjs/
 
-### REACT NATICE
+### REACT ROUTER
+
+1. React Router - https://reacttraining.com/react-router/web/guides/philosophy
+
+### REACT NATIVE
 
 ### REDIS
 
@@ -692,7 +715,12 @@ https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
 
 1. codecrew web development curriculum - http://codecrew.co/curriculum/
 
+2. Learn Web Development - https://developer.mozilla.org/en-US/docs/Learn
+
 ### WEBPACK
+1. Webpack Documentation - https://webpack.js.org/guides/getting-started/
+
+2. NPM Webpack Package - https://www.npmjs.com/package/webpack
 
 ### WINDOWS SERVER ADMINISTRATION
 
