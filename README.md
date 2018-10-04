@@ -194,6 +194,8 @@
 
 9. cplusplus-http://www.cplusplus.com/
 
+10. C++ reference - https://en.cppreference.com/w/
+
 ### CRYPTOGRAPHY
 
 1. coursera - https://www.coursera.org/learn/crypto 
