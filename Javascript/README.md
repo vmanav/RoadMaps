@@ -15,3 +15,5 @@
 7. Epicodus - https://www.learnhowtoprogram.com/javascript
 
 8. W3School - https://www.w3schools.com/js/
+
+9. freecodecamp - https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
