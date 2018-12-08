@@ -19,4 +19,7 @@
 9.cplusplus-http://www.cplusplus.com/
 
 
+#### Libraries Resources
 
+- *QT*:-
+    1.http://www-cs.ccny.cuny.edu/~wolberg/cs221/qt/books/C++-GUI-Programming-with-Qt-4-1st-ed.pdf 
